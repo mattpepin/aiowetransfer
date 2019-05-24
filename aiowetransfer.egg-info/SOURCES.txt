@@ -1,0 +1,8 @@
+README.md
+setup.py
+aiowetransfer/__init__.py
+aiowetransfer.egg-info/PKG-INFO
+aiowetransfer.egg-info/SOURCES.txt
+aiowetransfer.egg-info/dependency_links.txt
+aiowetransfer.egg-info/requires.txt
+aiowetransfer.egg-info/top_level.txt

@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
-Name: py3wetransfer
+Name: aiowetransfer
 Version: 0.0.2
 Summary: A Python 3 wrapper to use WeTransfer API V2 transfer and board
-Home-page: https://github.com/fliot/py3wetransfer
+Home-page: https://github.com/mattpepin/aiowetransfer
 Author: Francois Liot
 Author-email: francois@liot.org
-Maintainer: Francois Liot
-Maintainer-email: francois@liot.org
+Maintainer: Matthieu Pepin
+Maintainer-email: matthieupepin@gmail.com
 License: UNKNOWN
 Description: # WeTransfer V2 Upload wrapper
         
